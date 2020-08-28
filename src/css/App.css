@@ -1,0 +1,16 @@
+.form-control:focus {
+	color: #495057;
+	background-color: #ffffff;
+	border-color: #66cc33;
+	outline: 0;
+	box-shadow: none;
+}
+
+.form-control-danger,
+.form-control-danger:focus {
+	color: #495057;
+	background-color: #ffffff;
+	border-color: #eb3b2d !important;
+	outline: 0;
+	box-shadow: none;
+}
