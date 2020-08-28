@@ -1,0 +1,1 @@
+{"version":3,"sources":["Default.js"],"names":["Default","Component"],"mappings":"sNAEqBA,E,uKAEnB,OAAO,kC,GAF4BC","file":"static/js/13.278ae114.chunk.js","sourcesContent":["import React, { Component } from \"react\";\r\n\r\nexport default class Default extends Component {\r\n\trender() {\r\n\t\treturn <div></div>;\r\n\t}\r\n}\r\n"],"sourceRoot":""}
