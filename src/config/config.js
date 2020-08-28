@@ -5,7 +5,7 @@ import axios from "axios";
 export const isDev = true;
 
 export const clientAxios = axios.create({
-	baseURL: "http://larareact-dev.com/api",
+	baseURL: "https://react.farmtohome.com.pk/api",
 	timeout: 5000,
 	headers: {
 		"Access-Control-Allow-Origin": "*",

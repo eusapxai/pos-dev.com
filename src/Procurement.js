@@ -48,7 +48,7 @@ class Procurement extends Component {
 									</Link>
 								</div>
 								<div className="card shadow rounded">
-									<table className="table">
+									<table className="table table-responsive">
 										<thead>
 											<tr>
 												<th scope="col">#</th>
@@ -120,7 +120,7 @@ class Procurement extends Component {
 													)
 												)
 											) : (
-												<div className="spinner"></div>
+												<tr className="spinner"></tr>
 											)}
 										</tbody>
 									</table>

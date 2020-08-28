@@ -33,7 +33,7 @@ class ProcurementDetails extends Component {
 							<div className="col-12">
 								<div className="card shadow rounded">
 									<div className="my-3"></div>
-									<table className="table">
+									<table className="table table-responsive">
 										<thead>
 											<tr>
 												<th scope="col">#</th>

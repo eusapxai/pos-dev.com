@@ -36,7 +36,7 @@ class Cart extends Component {
 			if (this.props.cart.cartItems.length > 0) {
 				return (
 					<div className="p-3">
-						<table class="table">
+						<table class="table table-responsive">
 							<thead>
 								<tr>
 									<th scope="col">#</th>
